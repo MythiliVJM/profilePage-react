@@ -1,2 +1,5 @@
-# profilePage-react
-this is the profile page website using react js, html and css.
+<<<<<<< HEAD
+Content from your current branch
+=======
+Content from the branch you are merging
+>>>>>>> branch-name
