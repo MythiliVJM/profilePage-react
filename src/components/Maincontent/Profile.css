@@ -1,0 +1,46 @@
+.main-content{
+    background-color: #eff0f7;
+    max-width: 1100px;
+    margin: auto;
+    
+}
+.main-1{
+    
+    height: 400px;
+}
+.main-img{
+    height: 250px;
+    width: 100%;
+}
+button{
+  background-color: white; 
+  border:1px solid rgb(181, 174, 174);
+  border-radius: 10px;
+  color: gray;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  padding: 12px 28px;
+}
+.button-main{
+    display: flex;
+    justify-content: space-between;
+}
+.profile-main{
+    width: 120px;
+    height: 120px;
+    border-radius: 100px;
+    position: relative;
+    bottom: 65px;
+    object-fit: cover;
+}
+.history-icon{
+    height: 20px;
+    width: 20px;
+}
+.name-content{
+    
+}

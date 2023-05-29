@@ -1,0 +1,119 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    width: 100%;
+    height: 80px;
+    font-size: 18px;
+    color: black;
+    border-bottom: 1px solid #efe3e3;
+    
+    /* background-color: bisque; */
+}
+
+.nav-1{
+    display: flex;
+    align-items: center;
+    gap:1em;
+}
+li{
+    display: inline-block;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+
+ul{
+    padding-bottom: 20px;
+}
+
+.logo{
+    padding: 10px;
+}
+
+.nav-1{
+    display: flex;
+    justify-content: flex-start;
+    
+    height: 100%;
+    width: 50%;
+}
+/* .nav-2{
+    
+    /* display: flex;
+    align-items: center;
+    justify-content:flex-end;
+    flex-direction: row; 
+    /* background-color: aqua; */
+    /* height: 100%;
+    width: 50%;
+    margin-right: 20px;
+     */ 
+    
+
+.Search-bar{
+    float: right;
+    width: 280px;
+    height: 30px;
+    padding: 6px;
+    
+    border-radius: 40px;
+    border: none;
+    font-size: 15px;
+    outline: none;
+    color: #a2a5b9;
+    background-color: rgb(245, 238, 238)
+  }
+.nav-2 img{
+    width: 22px;
+    padding: 10px;
+    /* border: 1px solid black; */
+}
+.search-icon:hover{
+    background-color: rgb(110, 110, 218);
+    border-radius: 15px;
+}
+.Like-icon:hover{
+    background-color: rgb(234, 62, 62);
+    border-radius: 15px;
+}
+.bell-icon:hover{
+    background-color: rgb(128, 128, 225);
+    border-radius: 15px;
+}
+.message-icon:hover{
+    background-color: rgb(241, 220, 192);
+    border-radius: 15px;
+}
+.cart-icon:hover{
+    background-color: rgb(241, 220, 192);
+    border-radius: 15px;
+}
+.profile{
+    border-radius: 30px;
+    width: 40px;
+    height: 30px;
+    
+}
+.second-nav{
+    background-color: rgb(251, 254, 255);
+    height: 70px;
+    font-size: 10px;
+    font-weight: 500;
+    /* box-shadow: 5px 5px 18px #888888; */
+}
+.text-container{
+    
+    height: inherit;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.text-container p{
+    padding: 30px;
+    font-size: 18px;
+    color: #a2a5b9;
+}
+
+  
