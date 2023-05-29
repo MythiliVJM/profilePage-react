@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -73,3 +74,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # profilePage-react
 this is the profile page website using react js, html and css.
 >>>>>>> origin/main
+=======
+Content from your current branch
+=======
+Content from the branch you are merging
+>>>>>>> branch-name
+>>>>>>> a7a60ee2b2248c65239fcb178ed424ac6cb7558c
